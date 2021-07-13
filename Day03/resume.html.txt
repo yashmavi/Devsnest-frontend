@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<head><center><h1>Yash Mavi</h1></center>
+    <center><h3>+91-981024518 | <a href="https://www.linkedin.com/in/yash-mavi-b1967314b/" style="color:black;">https://www.linkedin.com</a> | <a href="https://github.com/yashmavi" style="color:black;">https://github.com</a></h3></body></center>
+    
+</head>
+<body>
+    <h2><p>Education</p></h2><hr>
+    <h4>AKTU:&ensp;<span style = "position: absolute;right: 20px;"> August 2018 – Present</h4></span>
+    Bachelor of Technology, Current aggregate of 7.20 CGPA <span style = "position: absolute;right: 20px;">Ghazaibad, Uttar Pradesh</span>
+    <h4>Vanasthali Public School :&ensp;<span style = "position: absolute;right: 20px;">2018</h4></span> 
+    12th Standard<span style = "position: absolute;right: 20px;">81%</span>
+    <h4>Vanasthali Public School :&ensp;<span style = "position: absolute;right: 20px;">2016</h4></span>
+    10th Standard<span style = "position: absolute;right: 20px;">8.60 CGPA</span>
+    <br><br>
+    <h2><p>Professional Profile</p></h2><hr>
+    <ul>
+        <li>Analytical Thinking</li>
+        <li>Verbal and written communication</li>
+        <li>Problem Solving</li>
+        <li>Project Management</li>
+        <li>Initiative to drive results</li>
+    </ul>
+    <br>
+    <br>
+    <h2><p>Technical Skills</p></h2><hr>
+    <b>Languages: </b>Python, C++, HTML/CSS, JavaScript<br>
+    <b>Developer Tools: </b>VS Code, Google Cloud Platform<br>
+    <b>Technologies/Frameworks: </b>GitHub, Data Structures and Algorithms, Neural Networks
+    <br><br><br>
+    
+    </ul>
+</body>
+</html>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               
